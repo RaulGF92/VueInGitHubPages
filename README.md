@@ -1,2 +1,2 @@
 # VueInGitHubPages
-## https://raulgf92.github.io/VueInGitHubPages/
+https://raulgf92.github.io/VueInGitHubPages/
